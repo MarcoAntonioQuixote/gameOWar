@@ -90,4 +90,4 @@ class Game {
 let war = new Game();
 
 
-let getIsAwesome = true;
+let gitIsAwesome = true;
